@@ -22,12 +22,12 @@ Kaapi is a coffee shop mobile app UI concept designed in Figma. It combines a wa
 - Design a smooth and user-friendly ordering experience.
 
 ## 📱 UI Screenshots
-![Home Screen](screenshots/onboarding.png)
-![Menu](screenshots/menu.png)
-![Coffee details](screenshots/cofeedetail.png)
-![Cart](screenshots/cart.png)
-![Checkout](screenshots/checkout.png)
-![Orders](screenshots/orders.png)
+![Home Screen](onboarding.png)
+![Menu](menu.png)
+![Coffee details](cofeedetail.png)
+![Cart](cart.png)
+![Checkout](checkout.png)
+![Orders](orders.png)
 
 ## 🔗 Interactive Prototype
 
